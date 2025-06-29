@@ -6,7 +6,7 @@ namespace CalcLibrary
         {
             return a + b;
         }
-
+ 
         // Placeholder for future operations
         public int Subtract(int a, int b)
         {
