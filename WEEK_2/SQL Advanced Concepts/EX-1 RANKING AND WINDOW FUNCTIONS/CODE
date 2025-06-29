@@ -1,4 +1,4 @@
-USE pranavdb;
+USE rajeshdb;
 
 -- Step 1: Create the Products table
 CREATE TABLE Products (
