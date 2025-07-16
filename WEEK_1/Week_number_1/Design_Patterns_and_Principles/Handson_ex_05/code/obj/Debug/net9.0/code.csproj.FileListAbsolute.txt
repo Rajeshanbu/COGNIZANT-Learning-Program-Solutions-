@@ -1,0 +1,14 @@
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\bin\Debug\net9.0\code.exe
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\bin\Debug\net9.0\code.deps.json
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\bin\Debug\net9.0\code.runtimeconfig.json
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\bin\Debug\net9.0\code.dll
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\bin\Debug\net9.0\code.pdb
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\code.AssemblyInfoInputs.cache
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\code.AssemblyInfo.cs
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\code.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\code.dll
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\refint\code.dll
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\code.pdb
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\code.genruntimeconfig.cache
+C:\Users\SEC\Desktop\Week_number_1\Design_Patterns_and_Principles\Handson_ex_05\code\obj\Debug\net9.0\ref\code.dll
