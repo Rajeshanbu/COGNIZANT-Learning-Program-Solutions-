@@ -1,0 +1,11 @@
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.deps.json
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.dll
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\bin\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.dll
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\obj\Debug\net9.0\refint\CustomerCommLib.dll
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\obj\Debug\net9.0\CustomerCommLib.pdb
+C:\Users\SEC\Downloads\moq-demo\moq-demo\CustomerCommLib\obj\Debug\net9.0\ref\CustomerCommLib.dll
