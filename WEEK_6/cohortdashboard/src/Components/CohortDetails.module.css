@@ -1,0 +1,30 @@
+/* src/Components/CohortDetails.module.css */
+
+/* Define the 'box' class for the container div */
+.box {
+    width: 300px;
+    display: inline-block; /* Makes them sit side-by-side */
+    margin: 10px; /* Overall 10px margin */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid black; /* 1px border in black color */
+    border-radius: 10px; /* A border radius of 10px */
+    vertical-align: top; /* Align boxes at the top */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow */
+    background-color: #ffffff; /* White background */
+}
+
+/* Define a CSS style for HTML <dt> element using tag selector */
+dt {
+    font-weight: 500; /* Set the font weight to 500 */
+    margin-top: 8px; /* Add some space above definition terms */
+    color: #333; /* Darker color for terms */
+}
+
+dd {
+    margin-left: 0; /* Remove default indent */
+    margin-bottom: 5px;
+    color: #666; /* Lighter color for definitions */
+}
